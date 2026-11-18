@@ -1,0 +1,16 @@
+DATA LOG
+***************************
+Customer Name: Joy
+Product: Sealy Phuket
+VAT: R 6.45
+COMMISSION: R 2.15
+TOTAL: R 51.6
+***************************
+DATA LOG
+***************************
+Customer Name: joy
+Product: Sealy Phuket
+VAT: R 8.25
+COMMISSION: R 2.75
+TOTAL: R 66.0
+***************************
